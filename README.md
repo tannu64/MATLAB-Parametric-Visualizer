@@ -48,4 +48,4 @@ The repository includes screenshots demonstrating:
 - Effects of different parameter settings
 
 ## Author
-Feel Xvix, 2024 
+Engineer Tanveer Hussain Matlab Expert
